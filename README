@@ -1,3 +1,5 @@
+## Spannign Tree Protocol Simulation
+
 Example usage:
 
 ./spanningtree network.txt 1 2 3 4 5
